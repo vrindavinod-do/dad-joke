@@ -12,8 +12,8 @@ packages:
         binary: false
         main: ""
         runtime: python:3.9
-        web: true
-        webSecure: test
+        web: false
+        webSecure: 
         parameters: {}
         environment: {}
         annotations: {}
